@@ -1,0 +1,73 @@
+/* global*/
+
+* {
+
+    font-family: Helvetica
+
+}
+
+
+
+h2 {
+
+    font-size: 32px;
+
+    font-weight: bold;
+
+    color: white;
+
+}
+
+.pricing {
+
+    color: blue;
+
+    font-weight: bold;
+
+}
+
+/*header*/
+
+header {
+
+    background-image: url('pattern.webp');
+
+}
+
+header h1 {
+
+    font-family: Helvetica;
+
+    font-size: 100px;
+
+    font-weight: bold;
+
+    color: khaki;
+
+    text-align: center;
+
+}
+
+/*main - brushes*/
+
+#brushes h2 {
+
+    background-color: mediumspringgreen;
+
+}
+
+/*main - frames*/
+
+#frames h2 {
+
+    background-color: lightcoral;
+
+}
+
+/*main - paint*/
+
+#paint h2 {
+
+    background-color: skyblue;
+
+}
